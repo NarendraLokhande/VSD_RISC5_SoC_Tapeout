@@ -6,5 +6,6 @@
    + 50 GB HDD
    + Ubuntu 20.04+
    + 4vCPU
-
+   
++ Yosys Installation (It is RTL Synthesis Tool )
 
