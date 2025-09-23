@@ -9,7 +9,7 @@
    
 + Yosys Installation (It is RTL Synthesis Tool )
   <ins> To Install Yosys execute following commands on Linux Terminal </ins>
-  + $ git clone https://github.com/YosysHQ/yosys.git
+   + $ git clone https://github.com/YosysHQ/yosys.git
    + $ cd yosys 
    + $ sudo apt install make # (If make is not installed please install it) 
    + $ sudo apt-get install build-essential clang bison flex \
@@ -20,3 +20,7 @@
    + $ sudo make install
 + Yosys installation verification
 <img width="1255" height="861" alt="yosys" src="https://github.com/user-attachments/assets/02eea897-28bd-455e-8485-d42f543e9145" />
+
+
++ Iverilog Installation (It is Verilog Simulator which Compiles and simulates Verilog designs for functional verification)
+  + $ sudo apt-get install iverilog
