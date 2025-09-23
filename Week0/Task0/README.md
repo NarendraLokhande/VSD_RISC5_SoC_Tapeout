@@ -24,3 +24,6 @@
 
 + Iverilog Installation (It is Verilog Simulator which Compiles and simulates Verilog designs for functional verification)
   + $ sudo apt-get install iverilog
++ Iverilog Installation verfication
+  
+<img width="1297" height="863" alt="iverilog" src="https://github.com/user-attachments/assets/bcc90648-6a63-41b4-a515-2030057ba8a7" />
