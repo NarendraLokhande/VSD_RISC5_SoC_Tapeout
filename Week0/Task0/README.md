@@ -18,3 +18,5 @@
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
    + $ make 
    + $ sudo make install
++ Yosys installation verification
+<img width="1255" height="861" alt="yosys" src="https://github.com/user-attachments/assets/02eea897-28bd-455e-8485-d42f543e9145" />
