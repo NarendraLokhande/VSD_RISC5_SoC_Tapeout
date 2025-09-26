@@ -33,3 +33,13 @@
    + $ sudo apt install gtkwave
 
 <img width="1287" height="857" alt="gtkwave" src="https://github.com/user-attachments/assets/a00fe908-931a-4ce8-bf47-3853a606d0ee" />
+
+
++ Ngspice – Circuit Simulator
+  + $ sudo apt update
+  + $ sudo apt install ngspice
+ 
+<img width="1281" height="685" alt="ngspice" src="https://github.com/user-attachments/assets/4fba0466-19fe-4a5e-974c-cf3b7bab0c2e" />
+
+
+
