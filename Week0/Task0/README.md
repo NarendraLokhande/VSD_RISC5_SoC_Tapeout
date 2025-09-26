@@ -41,5 +41,30 @@
  
 <img width="1281" height="685" alt="ngspice" src="https://github.com/user-attachments/assets/4fba0466-19fe-4a5e-974c-cf3b7bab0c2e" />
 
+ + Magic VLSI – Layout Tool
+   # Install required dependencies
 
++ $ sudo apt-get install m4
++ $ sudo apt-get install tcsh
++ $ sudo apt-get install csh
++ $ sudo apt-get install libx11-dev
++ $ sudo apt-get install tcl-dev tk-dev
++ $ sudo apt-get install libcairo2-dev
++ $ sudo apt-get install mesa-common-dev libglu1-mesa-dev
++ $ sudo apt-get install libncurses-dev
 
+# Clone Magic repository
+ + git clone https://github.com/RTimothyEdwards/magic
+ + cd magic
+
+# Configure build
++ ./configure
+
+# Build Magic
++ make
+
+# Install system-wide
+ + $sudo make install
+
+# Installation Verification
+<img width="1297" height="899" alt="magic" src="https://github.com/user-attachments/assets/cf726ff2-93d8-48c0-8e50-3f91a13ad064" />
