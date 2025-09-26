@@ -54,17 +54,17 @@
 + $ sudo apt-get install libncurses-dev
 
 # Clone Magic repository
- + git clone https://github.com/RTimothyEdwards/magic
- + cd magic
+ + $ git clone https://github.com/RTimothyEdwards/magic
+ + $ cd magic
 
 # Configure build
-+ ./configure
+ + $ ./configure
 
 # Build Magic
-+ make
++ $ make
 
 # Install system-wide
- + $sudo make install
+ + $ sudo make install
 
 # Installation Verification
 <img width="1297" height="899" alt="magic" src="https://github.com/user-attachments/assets/cf726ff2-93d8-48c0-8e50-3f91a13ad064" />
