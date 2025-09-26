@@ -27,3 +27,9 @@
 + Iverilog Installation verfication
   
 <img width="1297" height="863" alt="iverilog" src="https://github.com/user-attachments/assets/bcc90648-6a63-41b4-a515-2030057ba8a7" />
+
++ GTKWave ( Waveform Viewer)
+   + $ sudo apt update
+   + $ sudo apt install gtkwave
+
+<img width="1287" height="857" alt="gtkwave" src="https://github.com/user-attachments/assets/a00fe908-931a-4ce8-bf47-3853a606d0ee" />
